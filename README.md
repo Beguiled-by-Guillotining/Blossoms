@@ -15,5 +15,3 @@ Songs:
 11. Blossoms 6
 
 These songs use samples from the Sonatina Symphonic Orchestra which can be found [here](https://github.com/peastman/sso) the sound for playing these samples is based on [code by Robin Newman](https://rbnrpi.wordpress.com/2016/03/16/sonatina-symphonic-orchestra-revisited-to-give-55-sample-voices-for-sonic-pi/).
-
-All files are licensed under the GNU GPLv2 license (see file GNU GPLv2 LICENSE).
